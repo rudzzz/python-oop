@@ -1,0 +1,1 @@
+Treino de Orientação a Objetos em Python, onde a partir de uma classe veículo é possível criar vários carros.
